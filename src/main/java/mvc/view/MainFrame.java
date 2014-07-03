@@ -31,5 +31,6 @@ public class MainFrame extends JFrame {
         add(mainPanel);
 
         presenter.setButton(mainPanel.getButton());
+        presenter.setLabel(mainPanel.getLabel());
     }
 }
