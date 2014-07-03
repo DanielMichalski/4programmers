@@ -1,4 +1,4 @@
-//package kontrolka;
+package kontrolka;//package kontrolka;
 //
 ///**
 // * Author: Daniel
