@@ -75,7 +75,7 @@ public class Test2 extends JFrame implements ActionListener
     public static void main(String[] args)
     {
         Test2 apka = new Test2();
-        apka.setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        apka.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         apka.setVisible(true);
     }
 }
