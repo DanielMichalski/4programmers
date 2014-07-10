@@ -14,7 +14,7 @@ public class Main {
     }
 
     public static boolean isCDInTheDrive() {
-        String cdName = "eLicence_v1.0";
+        String cdName = "drive_name";
 
         List<File> files = Arrays.asList(File.listRoots());
         for (File drv : files) {
