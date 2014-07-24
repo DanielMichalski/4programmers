@@ -3,8 +3,8 @@ package pl.programmers.btn_img;
 import javax.swing.*;
 import java.awt.*;
 
-public class Ramka extends JFrame {
-    public Ramka() {
+public class ChartFrame extends JFrame {
+    public ChartFrame() {
         setTitle("Hospital Management");
         setSize(600, 600);
         setLayout(null);
@@ -24,7 +24,7 @@ public class Ramka extends JFrame {
     }
 
     public static void main(String[] args) {
-        Ramka window = new Ramka();
+        ChartFrame window = new ChartFrame();
         window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         window.setVisible(true);
     }
