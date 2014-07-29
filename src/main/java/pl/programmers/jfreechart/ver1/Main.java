@@ -1,4 +1,4 @@
-package pl.programmers.jfreechart;
+package pl.programmers.jfreechart.ver1;
 
 import java.awt.*;
 

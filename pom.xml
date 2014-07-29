@@ -23,6 +23,12 @@
             <version>2.3</version>
         </dependency>
 
+        <dependency>
+            <groupId>jfree</groupId>
+            <artifactId>jfreechart</artifactId>
+            <version>1.0.12</version>
+        </dependency>
+
     </dependencies>
 
 </project>
